@@ -847,7 +847,7 @@ the website, in dark theme
 
 .counter {
   display: block;
-  margin-left: 15vw;
+  margin-left: auto;
   margin-right: auto;
 }
 .counter .title {
